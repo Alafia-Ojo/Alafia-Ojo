@@ -9,8 +9,8 @@ Full-stack web developer
 * 🧠  I'm learning TypeSript
 * 🤝  I'm open to collaborating on Interesting projects
 
-<a href="https://www.twitter.com/@pandacodes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/@pandacodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/@ojoaalafiadavid" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ojoalafiadavid?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 ### Skills
 
