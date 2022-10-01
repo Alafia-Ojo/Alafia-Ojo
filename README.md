@@ -8,6 +8,7 @@ Full-stack web developer
 * ✉️  You can contact me at [ojoalafiadavid@gmail.com](mailto:ojoalafiadavid@gmail.com )
 * 🧠  I'm learning TypeSript
 * 🤝  I'm open to collaborating on Interesting projects
+*[![@pnadacodes's Holopin board](https://holopin.io/api/user/board?user=pandacodes)](https://holopin.io/@pandacodes)
 
 <a href="https://www.twitter.com/@ojoalafiadavid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ojoalafiadavid?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
